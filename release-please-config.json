@@ -4,9 +4,13 @@
       "component": "operator",
       "release-type": "simple"
     },
-    "helm/dummy2": {
+    "helm/dummy": {
       "release-type": "helm",
       "component": "dummy"
+    },
+    "helm/dummy2": {
+      "release-type": "helm",
+      "component": "dummy2"
     }
   },
   "plugins": [
