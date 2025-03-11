@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/kubecloudscaler/charts/compare/operator-v1.0.0...operator-v1.0.1) (2025-03-11)
+
+
+### Bug Fixes
+
+* test readme ([d60f990](https://github.com/kubecloudscaler/charts/commit/d60f99054c78f0f29fd164b57a8db34eb393eef7))
+
 ## 1.0.0 (2025-03-11)
 
 
