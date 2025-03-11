@@ -1,10 +1,21 @@
 {
   "packages": {
-    "helm/dummy": {
-      "release-type": "helm"
+    ".": {
+      "component": "operator"
     },
     "helm/dummy2": {
-      "release-type": "helm"
+      "release-type": "helm",
+      "component": "dummy"
     }
-  }
+  },
+  "plugins": [
+    {
+      "type": "linked-versions",
+      "groupName": "helm",
+      "components": [
+        "operator",
+        "dummy"
+      ]
+    }
+  ]
 }
