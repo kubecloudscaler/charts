@@ -2,6 +2,9 @@
   "packages": {
     "dummy": {
       "release-type": "helm"
+    },
+    "dummy2": {
+      "release-type": "helm"
     }
   }
 }
