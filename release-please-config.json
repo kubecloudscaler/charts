@@ -2,7 +2,10 @@
   "packages": {
     ".": {
       "component": "operator",
-      "release-type": "simple"
+      "release-type": "simple",
+      "exclude-paths": [
+        "helm"
+      ]
     },
     "helm/dummy": {
       "release-type": "helm",
