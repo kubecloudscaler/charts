@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "dummy": {
+      "release-type": "helm"
+    }
+  }
+}
