@@ -1,7 +1,8 @@
 {
   "packages": {
     ".": {
-      "component": "operator"
+      "component": "operator",
+      "release-type": "simple"
     },
     "helm/dummy2": {
       "release-type": "helm",
