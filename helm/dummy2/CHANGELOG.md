@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/kubecloudscaler/charts/compare/dummy2-v1.1.0...dummy2-v1.1.1) (2025-03-11)
+
+
+### Bug Fixes
+
+* dummy2 ([73f03db](https://github.com/kubecloudscaler/charts/commit/73f03db0c86715d880e461a11a0e8a1788cbe7a9))
+
 ## [1.1.0](https://github.com/kubecloudscaler/charts/compare/dummy2-v1.0.1...dummy2-v1.1.0) (2025-03-11)
 
 
